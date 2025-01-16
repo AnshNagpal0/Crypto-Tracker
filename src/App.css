@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.App{
+  background-color:aliceblue;
+  color : white;
+  min-height: 100vh;
+}
+
+.row{
+  
+}
